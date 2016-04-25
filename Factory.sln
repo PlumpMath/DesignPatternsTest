@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Sing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "Command\Command.csproj", "{74B1C1A2-590C-4D28-B8DB-75C8898C6FE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter", "Interpreter\Interpreter.csproj", "{FA710267-8204-4A2E-B5AE-F00A047497FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{74B1C1A2-590C-4D28-B8DB-75C8898C6FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74B1C1A2-590C-4D28-B8DB-75C8898C6FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74B1C1A2-590C-4D28-B8DB-75C8898C6FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA710267-8204-4A2E-B5AE-F00A047497FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA710267-8204-4A2E-B5AE-F00A047497FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA710267-8204-4A2E-B5AE-F00A047497FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA710267-8204-4A2E-B5AE-F00A047497FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
