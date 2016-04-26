@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fly-Weight", "Fly-Weight\Fl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csproj", "{C8C66128-1A6C-4553-8BCE-ABDED1F6FAC6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{F3158E9E-4A95-4C91-944E-B30CF39BDE53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{C8C66128-1A6C-4553-8BCE-ABDED1F6FAC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8C66128-1A6C-4553-8BCE-ABDED1F6FAC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8C66128-1A6C-4553-8BCE-ABDED1F6FAC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3158E9E-4A95-4C91-944E-B30CF39BDE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3158E9E-4A95-4C91-944E-B30CF39BDE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3158E9E-4A95-4C91-944E-B30CF39BDE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3158E9E-4A95-4C91-944E-B30CF39BDE53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
