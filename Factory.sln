@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{3D67FB6E-8109-4030-A35D-27BE74457C52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fly-Weight", "Fly-Weight\Fly-Weight.csproj", "{7280FC8A-613F-4BAA-9B7B-883C482B9316}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{3D67FB6E-8109-4030-A35D-27BE74457C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D67FB6E-8109-4030-A35D-27BE74457C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D67FB6E-8109-4030-A35D-27BE74457C52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7280FC8A-613F-4BAA-9B7B-883C482B9316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7280FC8A-613F-4BAA-9B7B-883C482B9316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7280FC8A-613F-4BAA-9B7B-883C482B9316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7280FC8A-613F-4BAA-9B7B-883C482B9316}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
